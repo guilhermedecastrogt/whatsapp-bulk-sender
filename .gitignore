@@ -1,0 +1,15 @@
+.vscode/
+__pycache__/
+web-ui/node_modules/
+venv/
+temp/
+build/
+dist/
+*.jpg
+*.png
+*.ico
+*.qrc
+*.log
+*.data
+*.spec
+*.ini
