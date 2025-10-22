@@ -6,7 +6,6 @@ temp/
 build/
 dist/
 *.jpg
-*.png
 *.ico
 *.qrc
 *.log
